@@ -2,10 +2,44 @@
     "name": "MC-Strawberry",
     "version": "0.0.0-1.21-Fabric",
     "datapacks": [],
-    "resourcepacks": [],
-    "shaderpacks": [],
+    "resourcepacks": [
+        "https://cdn.modrinth.com/data/50dA9Sha/versions/8vtPih5h/FreshAnimations_v1.9.2.zip",
+        "https://cdn.modrinth.com/data/YAVTU8mK/versions/JrJx24Cj/FA%2BAll_Extensions-v1.4.zip",
+        "https://cdn.modrinth.com/data/P4Y2W7Ny/versions/xLXBh6Cx/%C2%A76Drodi%27s%20Illagers%20FA%20%5BV4.8%5D.zip",
+        "https://cdn.modrinth.com/data/dhYtY0Ok/versions/81uMZx9E/%C2%A72Drodi%27s%20Villagers%20FA%20%5BV2.7%5D.zip",
+        "https://cdn.modrinth.com/data/l4v8B9ZP/versions/eAKq2Uun/DOT.zip",
+        "https://cdn.modrinth.com/data/uyDA6H6k/versions/fiUQKZbX/3d-dripstone_v1.0.1.zip",
+        "https://cdn.modrinth.com/data/ti9eZ3CP/versions/44oYkyYv/%C2%A7l3D%C2%A7f%2BLadders%2Bv1.2%28mc-1.21%29.zip",
+        "https://cdn.modrinth.com/data/PGGrfcvL/versions/jRAsb6KQ/Better%2BLanterns%2Bv1.2%28mc-1.21%29.zip",
+        "https://cdn.modrinth.com/data/hYTZC3GD/versions/X0GmkJmQ/DoorTweaks-v3.4.2.zip"
+    ],
+    "shaderpacks": [
+        "https://cdn.modrinth.com/data/ZvMtQlho/versions/XMIeWOv9/Bliss_v2.0.4_%28Chocapic13_Shaders_edit%29.zip"
+    ],
     "mods": {
-        "client": [],
+        "client": [
+            "https://cdn.modrinth.com/data/mOgUt4GM/versions/YIfqIJ8q/modmenu-11.0.3.jar",
+            "https://cdn.modrinth.com/data/DOUdJVEm/versions/2rYmDEEa/Controlify-2.0.0-beta.21%2B1.21-fabric.jar",
+            "https://cdn.modrinth.com/data/fJKsphvU/versions/kPuGLH88/bundlescroll-1.1%2B1.21.jar",
+            "https://cdn.modrinth.com/data/qyVF9oeo/versions/wP25tEBe/sound-physics-remastered-fabric-1.21.1-1.4.6.jar",
+            "https://cdn.modrinth.com/data/S2guHrs2/versions/aDSYsAiL/FancyBlockParticles-1.21-fabric-21.0.1.2.jar",
+            "https://cdn.modrinth.com/data/zV5r3pPn/versions/qC7fvdOC/skinlayers3d-fabric-1.7.3-mc1.21.jar",
+            "https://cdn.modrinth.com/data/jawg7zT1/versions/YS7mMAIj/cave_dust-3.0.0.jar",
+            "https://cdn.modrinth.com/data/rUgZvGzi/versions/KWZCioh0/eating-animation-1.21%2B1.9.72.jar",
+            "https://cdn.modrinth.com/data/WhbRG4iK/versions/NpyrzO8Q/fallingleaves-1.16.4%2B1.21.1.jar",
+            "https://cdn.modrinth.com/data/H5XMjpHi/versions/v5yEYZCO/firstperson-fabric-2.4.6-mc1.21.jar",
+            "https://cdn.modrinth.com/data/MPCX6s5C/versions/pdbn4LOA/notenoughanimations-fabric-1.8.1-mc1.21.jar",
+            "https://cdn.modrinth.com/data/rI0hvYcd/versions/dhKbgdIb/visuality-0.7.7%2B1.21.jar",
+
+            "https://cdn.modrinth.com/data/P7dR8mSH/versions/oGwyXeEI/fabric-api-0.102.0%2B1.21.jar",
+            "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar",
+            "https://cdn.modrinth.com/data/AANobbMI/versions/dNHeFokL/sodium-fabric-0.5.9%2Bmc1.21.jar",
+            "https://cdn.modrinth.com/data/YL57xq9U/versions/RYnrr5zv/iris-1.7.1%2Bmc1.21.jar",
+            "https://cdn.modrinth.com/data/eXts2L7r/versions/cE5TczQr/placeholder-api-2.4.1%2B1.21.jar",
+            "https://cdn.modrinth.com/data/1eAoo2KR/versions/iu96ISLv/YetAnotherConfigLib-3.6.2%2B1.21-fabric.jar",
+            "https://cdn.modrinth.com/data/BVzZfTc1/versions/KmnvNiTO/entity_texture_features_fabric_1.21.1-6.2.8.jar",
+            "https://cdn.modrinth.com/data/4I1XuqiY/versions/Qql6TI9W/entity_model_features_fabric_1.21-2.2.6.jar"
+        ],
         "server": [],
         "dual": []
     }
