@@ -1,6 +1,6 @@
 {
     "name": "MC-Strawberry",
-    "version": "0.0.0-1.21-Fabric",
+    "version": "0.1.0-1.21-Fabric",
     "datapacks": [],
     "resourcepacks": [
         "https://cdn.modrinth.com/data/50dA9Sha/versions/8vtPih5h/FreshAnimations_v1.9.2.zip",
@@ -14,7 +14,7 @@
         "https://cdn.modrinth.com/data/hYTZC3GD/versions/X0GmkJmQ/DoorTweaks-v3.4.2.zip"
     ],
     "shaderpacks": [
-        "https://cdn.modrinth.com/data/ZvMtQlho/versions/XMIeWOv9/Bliss_v2.0.4_%28Chocapic13_Shaders_edit%29.zip"
+        "https://cdn.modrinth.com/data/kmwfVOoi/versions/nZpwS5Nf/rethinking-voxels_r0.1-beta5.zip"
     ],
     "mods": {
         "client": [
