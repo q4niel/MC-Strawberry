@@ -31,7 +31,7 @@ Each asset is licensed under its respective license, so please refer to their of
 
 ## Official Asset Sources
 These scripts download assets from the following **official sources**. Visit the **links** for more details about each asset and its **licensing**.
-- **Shader Pack** [Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels/version/r0.1-beta5)
+- **Shader Pack** [Miniature Shader](https://modrinth.com/shader/miniature-shader/version/2.13.6)
 - **Resource Packs**
     - [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations/version/1.9.2)
     - [Fresh Animations - Extensions](https://modrinth.com/resourcepack/fresh-animations-extensions/version/1.4.0)
