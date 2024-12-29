@@ -1,6 +1,6 @@
 {
     "name": "MC-Strawberry",
-    "version": "0.1.0-1.21-Fabric",
+    "version": "0.3.0-1.21-Fabric",
     "datapacks": [],
     "resourcepacks": [
         "https://cdn.modrinth.com/data/50dA9Sha/versions/8vtPih5h/FreshAnimations_v1.9.2.zip",
@@ -14,11 +14,12 @@
         "https://cdn.modrinth.com/data/hYTZC3GD/versions/X0GmkJmQ/DoorTweaks-v3.4.2.zip"
     ],
     "shaderpacks": [
-        "https://cdn.modrinth.com/data/UaS8ROxa/versions/sWWhCIN1/miniature-shader-2.13.6.zip"
+        "https://cdn.modrinth.com/data/UaS8ROxa/versions/oGPTDEGy/miniature-shader-2.14.zip"
     ],
     "mods": {
         "client": [
             "https://cdn.modrinth.com/data/mOgUt4GM/versions/YIfqIJ8q/modmenu-11.0.3.jar",
+            "https://cdn.modrinth.com/data/i9FiM2U0/versions/MGZKvR9o/qdaa-1.1.2.jar",
             "https://cdn.modrinth.com/data/DOUdJVEm/versions/2rYmDEEa/Controlify-2.0.0-beta.21%2B1.21-fabric.jar",
             "https://cdn.modrinth.com/data/fJKsphvU/versions/kPuGLH88/bundlescroll-1.1%2B1.21.jar",
             "https://cdn.modrinth.com/data/qyVF9oeo/versions/wP25tEBe/sound-physics-remastered-fabric-1.21.1-1.4.6.jar",

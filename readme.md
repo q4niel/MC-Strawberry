@@ -31,7 +31,7 @@ Each asset is licensed under its respective license, so please refer to their of
 
 ## Official Asset Sources
 These scripts download assets from the following **official sources**. Visit the **links** for more details about each asset and its **licensing**.
-- **Shader Pack** [Miniature Shader](https://modrinth.com/shader/miniature-shader/version/2.13.6)
+- **Shader Pack** [Miniature Shader](https://modrinth.com/shader/miniature-shader/version/2.14)
 - **Resource Packs**
     - [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations/version/1.9.2)
     - [Fresh Animations - Extensions](https://modrinth.com/resourcepack/fresh-animations-extensions/version/1.4.0)
@@ -45,6 +45,7 @@ These scripts download assets from the following **official sources**. Visit the
     - [RAY's 3D Rails](https://modrinth.com/resourcepack/rays-3d-rails/version/2.2)
 - **Mods**
     - [Mod Menu](https://modrinth.com/mod/modmenu/version/11.0.3)
+    - [QDAA](https://modrinth.com/mod/qdaa/version/1.1.2)
     - [Controlify](https://modrinth.com/mod/controlify/version/2rYmDEEa)
     - [Bundle Scroll](https://modrinth.com/mod/bundle-scroll/version/1.1+1.21)
     - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered/version/fabric-1.21.1-1.4.6)
