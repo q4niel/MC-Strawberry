@@ -1,8 +1,9 @@
 {
     "name": "MC-Strawberry",
-    "version": "0.3.0-1.21-Fabric",
+    "version": "0.4.0-1.21-Fabric",
     "datapacks": [],
     "resourcepacks": [
+        "https://cdn.modrinth.com/data/KhALBWoN/versions/2tF7SPA4/CoffeeGUI_1.20.4_v1.0.zip",
         "https://cdn.modrinth.com/data/50dA9Sha/versions/8vtPih5h/FreshAnimations_v1.9.2.zip",
         "https://cdn.modrinth.com/data/YAVTU8mK/versions/JrJx24Cj/FA%2BAll_Extensions-v1.4.zip",
         "https://cdn.modrinth.com/data/P4Y2W7Ny/versions/xLXBh6Cx/%C2%A76Drodi%27s%20Illagers%20FA%20%5BV4.8%5D.zip",
